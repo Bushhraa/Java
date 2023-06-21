@@ -1,0 +1,10 @@
+This is a food delivery app management system from admin panal.
+First admin need to log in.
+
+Admin user name: admin
+Admin password:password
+
+At first user need to create an account then from admin side it will create option of normal account or premium account and then in premium account there will be discount.There is account from which customer can deposit or pay bill.When customer pay a bill discount will be automatically added to the account.
+All the transaction history will be created in a text file and it will be saved in the history.text file of fieio.
+
+
